@@ -100,7 +100,8 @@ footer {
 }
 .klimaatstreep {
     width: 25%;
-    hight: 25%
+    hight: 25%;
+    
     max-height: 150px;
     object-fit: cover;
     display: block;
