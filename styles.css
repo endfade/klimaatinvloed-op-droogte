@@ -105,6 +105,7 @@ footer {
 
 .klimaatstreep {
   position: sticky;
+  top: 0;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
@@ -113,6 +114,7 @@ footer {
   display: block;
   border-radius: 8px;
 }
+
 
 /* Responsive styles */
 @media (max-width: 768px) {
